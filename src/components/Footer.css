@@ -1,0 +1,33 @@
+.footer {
+    background-color: #00c5a9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    padding: 0 20px;
+    direction: ltr;
+
+}
+
+.left,
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right span {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.link {
+    text-decoration: none;
+    color: #e7eded;
+    margin-left: 5px;
+}
+
+@media (max-width:768px) {
+    .footer {
+        font-size: 12px;
+    }
+}

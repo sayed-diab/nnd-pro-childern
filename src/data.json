@@ -1,0 +1,18 @@
+{
+    "productPrice": 400,
+    "firstShipmentCost": 60,
+    "additionalShipmentCost": 16,
+    "taxRate": 0.15,
+    "massage": {
+        "one": "this is from buy one",
+        "two": "this is from buy two",
+        "four": "four",
+        "six": "six",
+        "fourPlus": "four plus",
+        "eight": "eight",
+        "compo1": "3300",
+        "compo2": "6500",
+        "compo3": "5800",
+        "compo4": "11500"
+    }
+}

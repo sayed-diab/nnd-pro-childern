@@ -1,0 +1,16 @@
+section.main--div {
+    width: calc(100% - 300px);
+    margin: 40px auto;
+
+    @media (max-width:1199px) {
+        width: calc(100% - 150px);
+    }
+
+    @media (max-width:767px) {
+        width: calc(100% - 100px);
+    }
+
+    div {
+        width: 100%;
+    }
+}
