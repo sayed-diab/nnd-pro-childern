@@ -207,7 +207,7 @@ function Details() {
                 id="fr"
                 to="/Options"
               >
-                <strong>طلب شراء مخصص</strong>
+                <strong>طلب مخصص</strong>
               </Link>
             </div>
           </div>
